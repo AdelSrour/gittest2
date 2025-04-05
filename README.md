@@ -1,1 +1,1 @@
-![testimage](image.png)
+![testimage](example.png)
